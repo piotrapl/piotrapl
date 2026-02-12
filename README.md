@@ -1,4 +1,6 @@
-## Hi there 👋
+## CI status
+
+[![CI - Playwright API Tests](https://github.com/<OWNER>/playwright-python-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/<OWNER>/playwright-python-miasta-api-tests/actions/workflows/ci.yml)
 
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
