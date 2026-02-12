@@ -1,15 +1,11 @@
 ## Automated testing projects
 
-### [playwright-typescript-miasta-api-tests](https://github.com/piotrapl/playwright-typescript-miasta-api-tests)
+**[playwright-typescript-miasta-api-tests](https://github.com/piotrapl/playwright-typescript-miasta-api-tests)**  
+[![CI - Playwright API Tests](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml)
 
-- CI (ci.yml):  
-  [![CI](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml/badge.svg)](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml)
+**[playwright-python-miasta-api-tests](https://github.com/piotrapl/playwright-python-miasta-api-tests)**  
+[![CI - Playwright API Tests](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml)
 
-### [playwright-python-miasta-api-tests](https://github.com/piotrapl/playwright-python-miasta-api-tests)
-
-- CI (playwright.yml):  
-  [![CI - Playwright API Tests](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml/badge.svg)](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml)
-  
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
