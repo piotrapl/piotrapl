@@ -1,5 +1,4 @@
-### Test Automation Portfolio (CI Dashboard)
-
+#### Test Automation Portfolio (CI Dashboard)
 | Project | CI |
 |---|---|
 | [playwright-typescript-miasta-api-tests](https://github.com/piotrapl/playwright-typescript-miasta-api-tests) | [![CI](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml) |
