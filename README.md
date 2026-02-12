@@ -1,5 +1,7 @@
 ## CI status
 
+[![CI - Playwright Workflow](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml)
+
 [![CI - Playwright API Tests](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml)
 
 <!--
