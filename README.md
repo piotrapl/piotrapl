@@ -1,13 +1,15 @@
 ## Automated testing projects
 
 ### [playwright-typescript-miasta-api-tests](https://github.com/piotrapl/playwright-typescript-miasta-api-tests)
+
 - CI (ci.yml):  
-  [![CI - Playwright/TS API Tests](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml)
+  [![CI - Playwright/TS API Tests](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/ci.yml)
 
 ### [playwright-python-miasta-api-tests](https://github.com/piotrapl/playwright-python-miasta-api-tests)
+
 - CI (playwright.yml):  
   [![CI - Playwright/Python API Tests](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/playwright.yml)
-
+  
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
