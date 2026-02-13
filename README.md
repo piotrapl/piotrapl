@@ -1,4 +1,4 @@
-**Test Automation Projects (with CI integration) - CI Dashboard**
+**CI Dashboard (for Test Automation Projects with CI integration) - (all projects in Pinned section)**
 | Project | CI | | Project | CI |
 | --- | --- | --- | --- | --- |
 | [playwright-typescript-miasta-api-tests](https://github.com/piotrapl/playwright-typescript-miasta-api-tests) | [![CI](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml) | | [playwright-python-miasta-api-tests](https://github.com/piotrapl/playwright-python-miasta-api-tests) | [![CI](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml) |
