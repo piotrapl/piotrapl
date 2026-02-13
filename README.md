@@ -2,7 +2,7 @@
 | Project | CI | | Project | CI |
 | --- | --- | --- | --- | --- |
 | [playwright-typescript-miasta-api-tests](https://github.com/piotrapl/playwright-typescript-miasta-api-tests) | [![CI](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml) | | [playwright-python-miasta-api-tests](https://github.com/piotrapl/playwright-python-miasta-api-tests) | [![CI](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml) |
-| [seleniumwd-java-restassured-miasta-api-tests](https://github.com/piotrapl/seleniumwd-java-restassured-miasta-api-tests) | [![CI](https://github.com/piotrapl/seleniumwd-java-restassured-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/seleniumwd-java-restassured-miasta-api-tests/actions/workflows/ci.yml) | | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | | [seleniumwd-java-restassured-miasta-api-tests](https://github.com/piotrapl/seleniumwd-java-restassured-miasta-api-tests) | [![CI](https://github.com/piotrapl/seleniumwd-java-restassured-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/seleniumwd-java-restassured-miasta-api-tests/actions/workflows/ci.yml) |
 
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
