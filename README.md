@@ -1,5 +1,6 @@
 **This profile repository collects CI badges for my automation test projects in one place.
 It gives a quick overview of build status. Clicking the CI badge redirects to the project's Actions tab**
+
 | Project | CI | | Project | CI |
 | --- | --- | --- | --- | --- |
 | [playwright-typescript-miasta-api-tests](https://github.com/piotrapl/playwright-typescript-miasta-api-tests) | [![CI](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-miasta-api-tests/actions/workflows/playwright.yml) | | [playwright-python-miasta-api-tests](https://github.com/piotrapl/playwright-python-miasta-api-tests) | [![CI](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-python-miasta-api-tests/actions/workflows/ci.yml) |
