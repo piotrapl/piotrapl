@@ -1,5 +1,5 @@
 ### This profile repository collects CI badges for my automation test projects in one place.
-It gives a quick overview of build status. Clicking the CI badge redirects to the project's Actions tab**
+It gives a quick overview of build status. Clicking the CI badge redirects to the project's Actions tab
 
 #### UI tests
 
