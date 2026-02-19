@@ -1,5 +1,4 @@
-### This profile repository collects CI badges for my automation test projects with CI integration (the other projects: in 'Pinned' section)  
-It gives a quick overview of build status. Clicking the CI badge redirects to the project's Actions tab
+### CI dashboard collecting in one place CI badges for my automation test projects
 
 #### UI tests
 <table>
