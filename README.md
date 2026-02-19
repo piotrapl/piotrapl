@@ -16,7 +16,7 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
     <tr>
       <td>
   <a href="...">playwright-typescript-entities-ui-tests</a><br>
-  <sub><em>Playwright, TypeScript</em></sub>
+  <sub><em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em></sub>
       </td>
       <td>
         <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml">
@@ -34,13 +34,6 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
           <img src="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main" alt="CI">
         </a>
       </td>
-    </tr>
-    <tr>
-      <td><sub>Playwright | TypeScript</sub></td>
-      <td>&nbsp;</td>
-      <td></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
     </tr>
   </tbody>
 </table>
