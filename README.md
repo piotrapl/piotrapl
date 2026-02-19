@@ -6,7 +6,6 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
 | Project | CI | | Project | CI |
 | --- | --- | --- | --- | --- |
 | [playwright-typescript-entities-ui-tests](https://github.com/piotrapl/playwright-typescript-entities-ui-tests) | [![CI](https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml) | | [cypress-javascript-entities-ui-tests](https://github.com/piotrapl/cypress-javascript-entities-ui-tests) | [![CI](https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main)](https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml) |
-| --- | --- | --- | --- | --- |
 | Playwright, TypeScript |  &nbsp; | |  &nbsp; |  &nbsp; |
 
 #### API tests
