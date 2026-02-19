@@ -75,7 +75,7 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
     <tr>
       <td>
   <a href="...">selenium-java-restassured-cities-api-tests</a><br>
-  <sub><em>Selenium | TestNG | RestAssured | HTML Reports | GitHub Actions CI</em></sub>
+  <sub><em>Selenium | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em></sub>
       </td>
       <td>
         <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml">
