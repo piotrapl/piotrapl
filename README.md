@@ -16,7 +16,7 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
     <tr>
       <td>
   <a href="...">playwright-typescript-entities-ui-tests</a><br>
-  <sub><em>Playwright | TypeScript | HTML Reports | GitHub_Actions_CI</em></sub>
+  <sub><em>Playwright | TypeScript | HTML Reporting | GitHub_Actions_CI</em></sub>
       </td>
       <td>
         <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml">
