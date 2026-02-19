@@ -39,11 +39,57 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
 
 #### API tests
 
-| Project | CI | | Project | CI |
-| --- | --- | --- | --- | --- |
-| [playwright-typescript-cities-api-tests](https://github.com/piotrapl/playwright-typescript-cities-api-tests) | [![CI](https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml) | | [playwright-python-cities-api-tests](https://github.com/piotrapl/playwright-python-cities-api-tests) | [![CI](https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml) |
-| [selenium-java-restassured-cities-api-tests](https://github.com/piotrapl/selenium-java-restassured-cities-api-tests) | [![CI](https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml) | | &nbsp; | &nbsp; |
-
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>CI</th>
+      <th></th>
+      <th>Project</th>
+      <th>CI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">
+          playwright-typescript-cities-api-tests
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
+          <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
+        </a>
+      </td>
+      <td></td>
+      <td>
+        <a href="https://github.com/piotrapl/playwright-python-cities-api-tests">
+          playwright-python-cities-api-tests
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml">
+          <img src="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">
+          selenium-java-restassured-cities-api-tests
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml">
+          <img src="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
+        </a>
+      </td>
+      <td></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
