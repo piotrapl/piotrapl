@@ -53,7 +53,7 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
     <tr>
       <td>
   <a href="...">playwright-typescript-cities-api-tests</a><br>
-  <sub><em>Playwright | TypeScript | HTML Reports | GitHub_Actions_CI</em></sub>
+  <sub><em>Playwright | TypeScript | HTML Reports | GitHub_Actions CI</em></sub>
       </td>
       <td>
         <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
@@ -63,7 +63,7 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
       <td></td>
       <td>
   <a href="...">playwright-python-cities-api-tests</a><br>
-  <sub><em>Playwright | Python | Pytest | HTML Reports | GitHub Actions CI</em></sub>
+  <sub><em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em></sub>
         </a>
       </td>
       <td>
