@@ -1,4 +1,4 @@
-### CI dashboard collecting in one place CI badges for my automation test projects
+### CI dashboard: CI badges for my automation test projects
 
 #### UI tests
 <table>
