@@ -37,7 +37,7 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
       </td>
     </tr>
     <tr>
-      <td><span style="font-size: 12px;">Playwright, TypeScript</span></td>
+      <td><span style="font-size: 5px;">Playwright, TypeScript</span></td>
       <td>&nbsp;</td>
       <td></td>
       <td>&nbsp;</td>
@@ -45,6 +45,7 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
     </tr>
   </tbody>
 </table>
+
 #### API tests
 
 | Project | CI | | Project | CI |
