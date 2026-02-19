@@ -62,8 +62,8 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
       </td>
       <td></td>
       <td>
-        <a href="https://github.com/piotrapl/playwright-python-cities-api-tests">
-          playwright-python-cities-api-tests
+  <a href="...">playwright-python-cities-api-tests</a><br>
+  <sub><em>Playwright | Python | Pytest | HTML Reports | GitHub Actions CI</em></sub>
         </a>
       </td>
       <td>
