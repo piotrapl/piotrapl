@@ -26,7 +26,7 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
       <td></td>
       <td>
   <a href="...">cypress-javascript-entities-ui-tests</a><br>
-  <sub><em>Cypress | JavaScript | CI</em></sub>
+  <sub><em>Cypress | JavaScript | GitHub Actions CI</em></sub>
       </td>
       <td>
         <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml">
