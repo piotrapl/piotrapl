@@ -52,9 +52,8 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">
-          playwright-typescript-cities-api-tests
-        </a>
+  <a href="...">playwright-typescript-cities-api-tests</a><br>
+  <sub><em>Playwright | TypeScript | HTML Reports | GitHub_Actions_CI</em></sub>
       </td>
       <td>
         <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
