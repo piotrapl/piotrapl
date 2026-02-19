@@ -2,12 +2,49 @@
 It gives a quick overview of build status. Clicking the CI badge redirects to the project's Actions tab
 
 #### UI tests
-
-| Project | CI | | Project | CI |
-| --- | --- | --- | --- | --- |
-| [playwright-typescript-entities-ui-tests](https://github.com/piotrapl/playwright-typescript-entities-ui-tests) | [![CI](https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml) | | [cypress-javascript-entities-ui-tests](https://github.com/piotrapl/cypress-javascript-entities-ui-tests) | [![CI](https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main)](https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml) |
-| _Playwright, TypeScript_ |  &nbsp; | |  &nbsp; |  &nbsp; |
-
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>CI</th>
+      <th></th>
+      <th>Project</th>
+      <th>CI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">
+          playwright-typescript-entities-ui-tests
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml">
+          <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
+        </a>
+      </td>
+      <td></td>
+      <td>
+        <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">
+          cypress-javascript-entities-ui-tests
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml">
+          <img src="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main" alt="CI">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><em>Playwright, TypeScript</em></td>
+      <td>&nbsp;</td>
+      <td></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 #### API tests
 
 | Project | CI | | Project | CI |
