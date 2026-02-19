@@ -37,7 +37,7 @@ It gives a quick overview of build status. Clicking the CI badge redirects to th
       </td>
     </tr>
     <tr>
-      <td><small>Playwright, TypeScript</small></td>
+      <td><sub>Playwright | TypeScript</sub></td>
       <td>&nbsp;</td>
       <td></td>
       <td>&nbsp;</td>
