@@ -24,7 +24,7 @@
       </td>
       <td></td>
       <td>
-  <a href="...">cypress-javascript-entities-ui-tests</a><br>
+  <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">cypress-javascript-entities-ui-tests</a><br>
   <sub><em>Cypress | JavaScript | GitHub_Actions CI</em></sub>
       </td>
       <td>
@@ -51,7 +51,7 @@
   <tbody>
     <tr>
       <td>
-  <a href="...">playwright-typescript-cities-api-tests</a><br>
+  <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">playwright-typescript-cities-api-tests</a><br>
   <sub><em>Playwright | TypeScript | HTML Reports | GitHub_Actions CI</em></sub>
       </td>
       <td>
