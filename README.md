@@ -1,4 +1,4 @@
-### Test Automation - CI dashboard
+### My Test Automation Projects - CI dashboard
 ##### (Projects automating tests are presented also in the 'Pinned' section)
 
 #### UI tests
