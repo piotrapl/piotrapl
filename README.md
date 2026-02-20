@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>
-  <a href="...">selenium-java-restassured-cities-api-tests</a><br>
+  <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a><br>
   <sub><em>Selenium | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em></sub>
       </td>
       <td>
