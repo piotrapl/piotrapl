@@ -8,7 +8,7 @@
     <tr>
       <th>Project</th>
       <th>CI</th>
-      <th style="width:20px;"></th>
+      <th align="center">│</th>
       <th>Project</th>
       <th>CI</th>
     </tr>
@@ -26,7 +26,10 @@
           <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
         </a>
       </td>
-      <td style="border-left:1px solid #d0d7de;"></td>
+
+      <!-- Divider -->
+      <td align="center">│</td>
+
       <td>
         <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">
           cypress-javascript-entities-ui-tests
