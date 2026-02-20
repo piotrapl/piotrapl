@@ -3,48 +3,7 @@
 
 #### UI tests
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>CI</th>
-      <th style="width:20px;"></th>
-      <th>Project</th>
-      <th>CI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">
-          playwright-typescript-entities-ui-tests
-        </a><br>
-        <sub><em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em></sub>
-      </td>
-      <td>
-        <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml">
-          <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
-        </a>
-      </td>
-
-      <!-- Subtle Vertical Divider -->
-      <td style="border-left:1px solid #d0d7de;"></td>
-
-      <td>
-        <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">
-          cypress-javascript-entities-ui-tests
-        </a><br>
-        <sub><em>Cypress | JavaScript | GitHub Actions CI</em></sub>
-      </td>
-      <td>
-        <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml">
-          <img src="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main" alt="CI">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<table> <thead> <tr> <th>Project</th> <th>CI</th> <th></th> <th>Project</th> <th>CI</th> </tr> </thead> <tbody> <tr> <td> <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">playwright-typescript-entities-ui-tests</a><br> <sub><em>Playwright | TypeScipt | HTML Reports | GitHub_Actions CI</em></sub> </td> <td> <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml"> <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI"> </a> </td> <td></td> <td> <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">cypress-javascript-entities-ui-tests</a><br> <sub><em>Cypress | JavaScript | GitHub_Actions CI</em></sub> </td> <td> <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml"> <img src="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main" alt="CI"> </a> </td> </tr> </tbody> </table>
 
 #### API tests
 
