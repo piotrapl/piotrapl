@@ -87,7 +87,7 @@
   </tbody>
 </table>
 
-##### Test Automation Projects are presented also in the 'Pinned' section
+##### Test Automation Projects are presented also in the 'Pinned' section:
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
