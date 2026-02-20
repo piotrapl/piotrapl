@@ -1,5 +1,4 @@
-### CI dashboard: CI badges for my automation test projects
-
+### Test \automation Projects - CI dashboard
 #### UI tests
 <table>
   <thead>
