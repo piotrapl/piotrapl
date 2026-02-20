@@ -2,6 +2,7 @@
 ##### (Projects automating tests are presented also in the 'Pinned' section)
 
 #### UI tests
+
 <table>
   <thead>
     <tr>
