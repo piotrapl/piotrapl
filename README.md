@@ -1,4 +1,4 @@
-### Test \automation Projects - CI dashboard
+### Test Automation Projects - CI dashboard
 #### UI tests
 <table>
   <thead>
