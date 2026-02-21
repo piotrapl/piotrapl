@@ -49,7 +49,7 @@
     <tr>
       <th>Project</th>
       <th>CI</th>
-      <th></th>
+      <th align="center">&#9474;</th>
       <th>Project</th>
       <th>CI</th>
     </tr>
@@ -65,7 +65,7 @@
           <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
         </a>
       </td>
-      <td></td>
+      <td align="center">&#9474;</td>
       <td>
   <a href="https://github.com/piotrapl/playwright-python-cities-api-tests">playwright-python-cities-api-tests</a><br>
   <sub><em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em></sub>
@@ -87,14 +87,13 @@
           <img src="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
         </a>
       </td>
-      <td></td>
+      <td align="center">&#9474;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
   </tbody>
 </table>
 
-##### Test Automation Projects are presented also in the 'Pinned' section:
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
