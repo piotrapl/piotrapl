@@ -1,4 +1,4 @@
-### CI dashboard - CI badges of ny test automation projects
+### CI dashboard - CI badges of my test automation projects
 #### (check out my other test automation projects in the Pinned section below the Dashboard)
 
 #### UI tests
