@@ -56,13 +56,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>
-  <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">playwright-typescript-cities-api-tests</a><br>
-  <sub><em>Playwright | TypeScript | HTML Reports | GitHub_Actions CI</em></sub>
+  	<td>
+  <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a><br>
+  <sub><em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em></sub>
       </td>
       <td>
-        <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
-          <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
+        <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml">
+          <img src="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
         </a>
       </td>
       <td align="center">&#9474;</td>
@@ -79,12 +79,12 @@
     </tr>
     <tr>
       <td>
-  <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a><br>
-  <sub><em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em></sub>
+  <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">playwright-typescript-cities-api-tests</a><br>
+  <sub><em>Playwright | TypeScript | HTML Reports | GitHub_Actions CI</em></sub>
       </td>
       <td>
-        <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml">
-          <img src="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
+        <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
+          <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
         </a>
       </td>
       <td align="center">&#9474;</td>
