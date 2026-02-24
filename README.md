@@ -10,8 +10,8 @@
       <th align="center" width="200">Project</th>
       <th align="center" width="200">CI</th>
       <th align="center" width="10">&#9474;</th>
-      <th>Project</th>
-      <th>CI</th>
+      <th align="center" width="200">Project</th>
+      <th align="center" width="200">CI</th>
     </tr>
   </thead>
   <tbody>
@@ -55,8 +55,8 @@
       <th align="center" width="200">Project</th>
       <th align="center" width="200">CI</th>
       <th align="center">&#9474;</th>
-      <th>Project</th>
-      <th>CI</th>
+      <th align="center" width="200">Project</th>
+      <th align="center" width="200">CI</th>
     </tr>
   </thead>
   <tbody>
