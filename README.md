@@ -47,20 +47,20 @@
 <table>
   <thead>
     <tr>
-      <th align="center" width="150">Project</th>
-      <th align="center" width="150">CI</th>
+      <th align="center" width="350">Project</th>
+      <th align="center" width="200">CI</th>
       <th align="center">&#9474;</th>
-      <th align="center" width="200">Project</th>
+      <th align="center" width="350">Project</th>
       <th align="center" width="200">CI</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-  	<td align="center" width="150">
+  	<td align="center" width="350">
   <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
   <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
       </td>
-      <td align="center" width="150">
+      <td align="center" width="200">
         <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml">
           <img src="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
         </a>
