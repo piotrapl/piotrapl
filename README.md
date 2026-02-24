@@ -1,6 +1,6 @@
-## CI dashboard - my test automation projects
-note: Clicking a CI badge in the CI column will take you to the project’s Actions tab.
-#### (check out my other QA automation projects in the 'Pinned' section below the dashboard)
+### CI dashboard - my test automation projects 
+Clicking a CI badge in the CI column will take you to the project’s Actions tab.
+#### Also, sheck out my other QA automation projects in the 'Pinned' section below the dashboard.
 
 ### UI tests
 <div style="overflow-x:auto;">
