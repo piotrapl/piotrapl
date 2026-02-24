@@ -83,60 +83,6 @@
 </div>
 
 <div style="overflow-x:auto;">
-  <div style="min-width:2500px;">
-<table style="width:2500px; table-layout:fixed;">
-  <thead>
-    <tr>
-      <th align="center" width="220">Project</th>
-      <th align="center" width="180">CI</th>
-      <th align="center">&#9474;</th>
-      <th align="center" width="220">Project</th>
-      <th align="center" width="180">CI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-  	<td align="left">
-  <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
-  <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
-      </td>
-      <td align="center">
-        <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml">
-          <img src="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
-        </a>
-      </td>
-      <td align="center">&#9474;</td>
-      <td>
-  <b><a href="https://github.com/piotrapl/playwright-python-cities-api-tests">playwright-python-cities-api-tests</a></b><br>
-  <em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml">
-          <img src="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-  <b><a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">playwright-typescript-cities-api-tests</a></b><br>
-  <em>Playwright | TypeScript | HTML Reports | GitHub_Actions CI</em>
-      </td>
-      <td align="center">
-        <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
-          <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
-        </a>
-      </td>
-      <td align="center">&#9474;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
-  </div>
-</div>
-
-<div style="overflow-x:auto;">
   <div style="min-width:800px;">
     <table style="width:800px; table-layout:fixed;">
       <tbody>
