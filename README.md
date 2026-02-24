@@ -45,7 +45,7 @@
 #### API tests
 
 <div style="overflow-x:auto;">
-<table style="width:1500px; table-layout:fixed;">
+<table style="width:2000px; table-layout:fixed;">
   <thead>
     <tr>
       <th>Project</th>
