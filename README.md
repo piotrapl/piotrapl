@@ -56,7 +56,7 @@ Clicking a CI badge in one of 'CI' rows will take you to the project’s Actions
           <th align="left" width="120">Project</th>
           <td width="400">
   <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
-  <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>>
+  <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
           </td>
           <td width="40"></td>
           <td width="400">
