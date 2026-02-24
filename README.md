@@ -28,9 +28,9 @@
       </td>
       <td align="center">&#9474;</td>
       <td>
-        <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">
+        <b><a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">
           cypress-javascript-entities-ui-tests
-        </a><br>
+        </a></b>b><br>
         <em>Cypress | JavaScript | GitHub Actions CI</em>
       </td>
       <td>
@@ -57,7 +57,7 @@
   <tbody>
     <tr>
   	<td>
-  <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a><br>
+  <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b>b><br>
   <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
       </td>
       <td>
