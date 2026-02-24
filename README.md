@@ -8,7 +8,7 @@
     <tr>
       <th>Project</th>
       <th>CI</th>
-      <th align="center">&#9474;</th>
+      <th align="center" width="30">&#9474;</th>
       <th>Project</th>
       <th>CI</th>
     </tr>
