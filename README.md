@@ -100,6 +100,33 @@
   </div>
 </div>
 
+<div style="overflow-x:auto;">
+  <div style="min-width:800px;">
+    <table style="width:800px; table-layout:fixed;">
+      <tbody>
+        <tr>
+          <th align="left" width="120">Project</th>
+          <td width="500">
+            <b>
+              <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">
+                playwright-typescript-cities-api-tests
+              </a>
+            </b><br>
+            <em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em>
+          </td>
+        </tr>
+        <tr>
+          <th align="left">CI</th>
+          <td>
+            <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
+              <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
