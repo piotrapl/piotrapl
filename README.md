@@ -1,5 +1,5 @@
 ### My test automation projects - CI dashboard
-#### (check out my other test automation projects in the Pinned section below the Dashboard)
+#### (check out my other QA automation projects in the Pinned section below the Dashboard)
 
 #### UI tests
 
