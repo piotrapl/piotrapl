@@ -2,12 +2,13 @@
 #### (check out my other QA automation projects in the 'Pinned' section below the dashboard)
 
 #### UI tests
-
+<div style="overflow-x:auto;">
+  <div style="min-width:2000px;">
 <table>
   <thead>
     <tr>
-      <th>Project</th>
-      <th>CI</th>
+      <th align="center" width="500">Project</th>
+      <th align="center" width="500">CI</th>
       <th align="center" width="10">&#9474;</th>
       <th>Project</th>
       <th>CI</th>
@@ -41,16 +42,18 @@
     </tr>
   </tbody>
 </table>
+  </div>
+</div>
 
 #### API tests
 
 <div style="overflow-x:auto;">
-  <div style="min-width:20000px;">
+  <div style="min-width:2000px;">
 <table>
   <thead>
     <tr>
-      <th align="center" width="900">Project</th>
-      <th>CI</th>
+      <th align="center" width="500">Project</th>
+      <th align="center" width="500">CI</th>
       <th align="center">&#9474;</th>
       <th>Project</th>
       <th>CI</th>
