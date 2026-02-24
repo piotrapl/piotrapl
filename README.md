@@ -44,6 +44,7 @@
 
 #### API tests
 
+<div style="overflow-x: auto;">
 <table>
   <thead>
     <tr>
@@ -93,7 +94,7 @@
     </tr>
   </tbody>
 </table>
-
+</div>div>
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
