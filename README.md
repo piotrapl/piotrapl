@@ -59,8 +59,8 @@
           </td>
           <td width="40"></td>
           <td width="400">
-  <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
-  <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
+  <b><a href="https://github.com/piotrapl/playwright-python-cities-api-tests">playwright-python-cities-api-tests</a></b><br>
+  <em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em>
           </td>
         </tr>
         <tr>
