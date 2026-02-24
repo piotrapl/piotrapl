@@ -31,7 +31,7 @@
         <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">
           cypress-javascript-entities-ui-tests
         </a><br>
-        <sub><em>Cypress | JavaScript | GitHub Actions CI</em></sub>
+        <em>Cypress | JavaScript | GitHub Actions CI</em>
       </td>
       <td>
         <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml">
@@ -58,7 +58,7 @@
     <tr>
   	<td>
   <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a><br>
-  <sub><em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em></sub>
+  <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
       </td>
       <td>
         <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml">
@@ -68,7 +68,7 @@
       <td align="center">&#9474;</td>
       <td>
   <a href="https://github.com/piotrapl/playwright-python-cities-api-tests">playwright-python-cities-api-tests</a><br>
-  <sub><em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em></sub>
+  <em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em>
         </a>
       </td>
       <td>
@@ -80,7 +80,7 @@
     <tr>
       <td>
   <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">playwright-typescript-cities-api-tests</a><br>
-  <sub><em>Playwright | TypeScript | HTML Reports | GitHub_Actions CI</em></sub>
+  <em>Playwright | TypeScript | HTML Reports | GitHub_Actions CI</em>
       </td>
       <td>
         <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
