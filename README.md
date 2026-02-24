@@ -48,11 +48,11 @@
 <table>
   <thead>
     <tr>
-      <th align="center" width="600">Project</th>
-      <th align="center" width="550">CI</th>
+      <th align="center" width="700">Project</th>
+      <th align="center" width="650">CI</th>
       <th align="center">&#9474;</th>
-      <th align="center" width="600">Project</th>
-      <th align="center" width="550">CI</th>
+      <th align="center" width="700">Project</th>
+      <th align="center" width="650">CI</th>
     </tr>
   </thead>
   <tbody>
