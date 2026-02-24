@@ -44,7 +44,43 @@
     </table>
   </div>
 </div>
+
 #### API tests
+
+<div style="overflow-x:auto;">
+  <div style="min-width:1200px;">
+    <table style="width:1200px; table-layout:fixed;">
+      <tbody>
+        <tr>
+          <th align="left" width="120">Project</th>
+          <td width="400">
+  <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
+  <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>>
+          </td>
+          <td width="40"></td>
+          <td width="400">
+  <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
+  <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
+          </td>
+        </tr>
+        <tr>
+          <th align="left">CI</th>
+          <td>
+            <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml">
+              <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
+            </a>
+          </td>
+          <td></td>
+          <td>
+            <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml">
+              <img src="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main" alt="CI">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 <div style="overflow-x:auto;">
   <div style="min-width:2500px;">
