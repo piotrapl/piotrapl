@@ -16,9 +16,9 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">
+        <b><a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">
           playwright-typescript-entities-ui-tests
-        </a><br>
+        </a></b><br>
         <em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em>
       </td>
       <td>
