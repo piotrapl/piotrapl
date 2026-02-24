@@ -71,7 +71,7 @@
   <em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em>
         </a>
       </td>
-      <td>
+      <td align="center" width="250">
         <a href="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml">
           <img src="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
         </a>
