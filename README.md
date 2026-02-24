@@ -4,7 +4,7 @@
 #### UI tests
 <div style="overflow-x:auto;">
   <div style="min-width:2500px;">
-<table>
+<table style="width:2500px; table-layout:fixed;">
   <thead>
     <tr>
       <th align="center" width="400">Project</th>
@@ -49,7 +49,7 @@
 
 <div style="overflow-x:auto;">
   <div style="min-width:2500px;">
-<table>
+<table style="width:2500px; table-layout:fixed;">
   <thead>
     <tr>
       <th align="center" width="400">Project</th>
