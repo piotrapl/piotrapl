@@ -45,7 +45,8 @@
 #### API tests
 
 <div style="overflow-x:auto;">
-<table style="width:2000px; table-layout:fixed;">
+  <div style="min-width:1600px;">
+<table>
   <thead>
     <tr>
       <th>Project</th>
@@ -94,6 +95,7 @@
     </tr>
   </tbody>
 </table>
+  </div>
 </div>
 
 <!--
