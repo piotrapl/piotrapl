@@ -1,7 +1,8 @@
-###                           CI dashboard - my test automation projects
+## CI dashboard - my test automation projects
+note: Clicking a CI badge in the CI column will take you to the project’s Actions tab.
 #### (check out my other QA automation projects in the 'Pinned' section below the dashboard)
 
-#### UI tests
+### UI tests
 <div style="overflow-x:auto;">
   <div style="min-width:1200px;">
     <table style="width:1200px; table-layout:fixed;">
@@ -45,7 +46,7 @@
   </div>
 </div>
 
-#### API tests
+### API tests
 
 <div style="overflow-x:auto;">
   <div style="min-width:1200px;">
