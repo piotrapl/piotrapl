@@ -45,11 +45,11 @@
 #### API tests
 
 <div style="overflow-x:auto;">
-  <div style="min-width:1600px;">
+  <div style="min-width:20000px;">
 <table>
   <thead>
     <tr>
-      <th>Project</th>
+      <th align="center" width="900">Project</th>
       <th>CI</th>
       <th align="center">&#9474;</th>
       <th>Project</th>
