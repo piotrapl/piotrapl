@@ -7,8 +7,8 @@
 <table style="width:2500px; table-layout:fixed;">
   <thead>
     <tr>
-      <th align="center" width="400">Project</th>
-      <th align="center" width="400">CI</th>
+      <th align="center" width="200">Project</th>
+      <th align="center" width="200">CI</th>
       <th align="center" width="10">&#9474;</th>
       <th>Project</th>
       <th>CI</th>
@@ -52,8 +52,8 @@
 <table style="width:2500px; table-layout:fixed;">
   <thead>
     <tr>
-      <th align="center" width="400">Project</th>
-      <th align="center" width="400">CI</th>
+      <th align="center" width="200">Project</th>
+      <th align="center" width="200">CI</th>
       <th align="center">&#9474;</th>
       <th>Project</th>
       <th>CI</th>
