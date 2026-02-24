@@ -56,7 +56,7 @@
   </thead>
   <tbody>
     <tr>
-  	<td align="center" width="350">
+  	<td align="left" width="350">
   <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
   <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
       </td>
@@ -71,18 +71,18 @@
   <em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em>
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml">
           <img src="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
         </a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" width="350">
   <b><a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">playwright-typescript-cities-api-tests</a></b><br>
   <em>Playwright | TypeScript | HTML Reports | GitHub_Actions CI</em>
       </td>
-      <td>
+      <td align="center">
         <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
           <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
         </a>
