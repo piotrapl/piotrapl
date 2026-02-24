@@ -44,15 +44,15 @@
 
 #### API tests
 
-<div style="overflow-x: auto;">
-<table>
+<div style="overflow-x:auto;">
+<table style="min-width:1600px; white-space:nowrap;">
   <thead>
     <tr>
-      <th align="center" width="700">Project</th>
-      <th align="center" width="650">CI</th>
+      <th align="center">Project</th>
+      <th align="center">CI</th>
       <th align="center">&#9474;</th>
-      <th align="center" width="700">Project</th>
-      <th align="center" width="650">CI</th>
+      <th align="center">Project</th>
+      <th align="center">CI</th>
     </tr>
   </thead>
   <tbody>
