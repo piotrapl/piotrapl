@@ -19,7 +19,7 @@
         <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">
           playwright-typescript-entities-ui-tests
         </a><br>
-        <sub><em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em></sub>
+        <em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em>
       </td>
       <td>
         <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml">
