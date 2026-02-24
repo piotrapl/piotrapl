@@ -45,14 +45,14 @@
 #### API tests
 
 <div style="overflow-x:auto;">
-<table style="min-width:1600px; white-space:nowrap;">
+<table style="width:1500px; table-layout:fixed;">
   <thead>
     <tr>
-      <th align="center" width="550">Project</th>
-      <th align="center" width="350">CI</th>
-      <th align="center" width="20">&#9474;</th>
-      <th align="center" width="550">Project</th>
-      <th align="center" width="350">CI</th>
+      <th>Project</th>
+      <th>CI</th>
+      <th align="center">&#9474;</th>
+      <th>Project</th>
+      <th>CI</th>
     </tr>
   </thead>
   <tbody>
