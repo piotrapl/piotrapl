@@ -56,7 +56,7 @@
   </thead>
   <tbody>
     <tr>
-  	<td>
+  	<td align="center" width="200">
   <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
   <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
       </td>
