@@ -3,48 +3,47 @@
 
 #### UI tests
 <div style="overflow-x:auto;">
-  <div style="min-width:2500px;">
-<table style="width:2500px; table-layout:fixed;">
-  <thead>
-    <tr>
-      <th align="center" width="220">Project</th>
-      <th align="center" width="180">CI</th>
-      <th align="center" width="5"></th>
-      <th align="center" width="220">Project</th>
-      <th align="center" width="180">CI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b><a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">
-          playwright-typescript-entities-ui-tests
-        </a></b><br>
-        <em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em>
-      </td>
-      <td>
-        <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml">
-          <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
-        </a>
-      </td>
-      <td align="center"></td>
-      <td>
-        <b><a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">
-          cypress-javascript-entities-ui-tests
-        </a></b><br>
-        <em>Cypress | JavaScript | GitHub Actions CI</em>
-      </td>
-      <td>
-        <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml">
-          <img src="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main" alt="CI">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <div style="min-width:1200px;">
+    <table style="width:1200px; table-layout:fixed;">
+      <tbody>
+        <tr>
+          <th align="left" width="120">Project</th>
+          <td width="400">
+            <b>
+              <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">
+                playwright-typescript-entities-ui-tests
+              </a>
+            </b><br>
+            <em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em>
+          </td>
+          <td width="40"></td>
+          <td width="400">
+            <b>
+              <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">
+                cypress-javascript-entities-ui-tests
+              </a>
+            </b><br>
+            <em>Cypress | JavaScript | GitHub Actions CI</em>
+          </td>
+        </tr>
+        <tr>
+          <th align="left">CI</th>
+          <td>
+            <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml">
+              <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
+            </a>
+          </td>
+          <td></td>
+          <td>
+            <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml">
+              <img src="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main" alt="CI">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
-
 #### API tests
 
 <div style="overflow-x:auto;">
