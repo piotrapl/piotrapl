@@ -2,7 +2,7 @@
 Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Actions' tab.
 #### Check out my other QA automation projects in the 'Pinned' section below the dashboard.
 
-### UI tests
+### UI testing
 <div style="overflow-x:auto;">
   <div style="min-width:1200px;">
     <table style="width:1200px; table-layout:fixed;">
@@ -46,7 +46,7 @@ Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Action
   </div>
 </div>
 
-### API tests
+### API testing
 
 <div style="overflow-x:auto;">
   <div style="min-width:1200px;">
