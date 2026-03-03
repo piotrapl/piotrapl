@@ -24,7 +24,7 @@ Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Action
                 cypress-javascript-entities-ui-tests
               </a>
             </b><br>
-            <em>Cypress | JavaScript | GitHub Actions CI</em>
+            <b><em>Cypress | JavaScript | GitHub Actions CI</em></b>
           </td>
         </tr>
         <tr>
@@ -56,12 +56,12 @@ Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Action
           <th align="left" width="120">Project</th>
           <td width="400">
   <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
-  <em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em>
+  <b><em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em></b>
           </td>
           <td width="40"></td>
           <td width="400">
   <b><a href="https://github.com/piotrapl/playwright-python-cities-api-tests">playwright-python-cities-api-tests</a></b><br>
-  <em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em>
+  <b><em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em></b>
           </td>
         </tr>
         <tr>
@@ -95,7 +95,7 @@ Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Action
                 playwright-typescript-cities-api-tests
               </a>
             </b><br>
-            <em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em>
+            <b><em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em></b>
           </td>
         </tr>
         <tr>
