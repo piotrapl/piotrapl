@@ -15,7 +15,7 @@ Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Action
                 playwright-typescript-entities-ui-tests
               </a>
             </b><br>
-            <em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em>
+            <b><em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em></b>
           </td>
           <td width="40"></td>
           <td width="400">
