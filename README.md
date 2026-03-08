@@ -16,7 +16,7 @@ Check out my other QA automation projects in the *'Pinned' section* below the da
                 playwright-typescript-entities-ui-api-tests
               </a>
             </b><br>
-            <b><em>Playwright | TypeScript | Typed API contracts | HTML Reports | GitHub Actions CI</em></b>
+            <b><em>Playwright | TypeScript | Typed API contracts | HTML Reports | GitHub_Actions_CI</em></b>
           </td>
         </tr>
         <tr>
