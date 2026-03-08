@@ -22,8 +22,8 @@ Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Action
         <tr>
           <th align="left">CI</th>
           <td>
-            <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-api-tests)/actions/workflows/cross-layer-e2e.yml">
-              <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-api-tests)/actions/workflows/cross-layer-e2e.yml/badge.svg?branch=main" alt="CI">
+            <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-api-tests">
+              <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-api-tests/actions/workflows/cross-layer-e2e.yml/badge.svg?branch=main" alt="CI">
             </a>
           </td>
         </tr>
@@ -31,7 +31,7 @@ Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Action
     </table>
   </div>
 </div>
-
+            
 ### UI testing
 <div style="overflow-x:auto;">
   <div style="min-width:1200px;">
