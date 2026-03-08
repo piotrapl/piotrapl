@@ -2,6 +2,36 @@
 Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Actions' tab.
 #### Check out my other QA automation projects in the 'Pinned' section below the dashboard.
 
+### Cross-Layer testing
+
+<div style="overflow-x:auto;">
+  <div style="min-width:800px;">
+    <table style="width:800px; table-layout:fixed;">
+      <tbody>
+        <tr>
+          <th align="left" width="120">Project</th>
+          <td width="500">
+            <b>
+              <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-api-tests">
+                playwright-typescript-entities-ui-api-tests
+              </a>
+            </b><br>
+            <b><em>Playwright | TypeScript | Cross-Layer testing | HTML Reports | GitHub Actions CI</em></b>
+          </td>
+        </tr>
+        <tr>
+          <th align="left">CI</th>
+          <td>
+            <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-api-tests)/actions/workflows/cross-layer-e2e.yml">
+              <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-api-tests)/actions/workflows/cross-layer-e2e.yml/badge.svg?branch=main" alt="CI">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
 ### UI testing
 <div style="overflow-x:auto;">
   <div style="min-width:1200px;">
