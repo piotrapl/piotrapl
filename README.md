@@ -16,7 +16,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
                 playwright-typescript-entities-ui-api-tests
               </a>
             </b><br>
-            <b><em>Playwright | TypeScript | UI+API Validation | Allure Reports | CI/CD Ready | Screenshots & Traces</em></b>
+            <b><em>Playwright cross-layer testing: verifying UI workflows against backend API responses: TypeScript | Allure Reports | CI/CD Ready | Screenshots & Traces</em></b>
           </td>
         </tr>
         <tr>
