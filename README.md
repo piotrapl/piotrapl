@@ -1,6 +1,35 @@
 ### CI dashboard - my test automation projects 
 Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Actions' tab. <br>
 Check out my other QA automation projects in the **'Pinned' section** below the dashboard.
+### Performance testing
+
+<div style="overflow-x:auto;">
+  <div style="min-width:800px;">
+    <table style="width:800px; table-layout:fixed;">
+      <tbody>
+        <tr>
+          <th align="left" width="120">Project</th>
+          <td width="500">
+            <b>
+              <a href="https://github.com/piotrapl/k6-typescript-reqres-performance-tests">
+                k6-typescript-reqres-performance-tests
+              </a>
+            </b><br>
+            <b><em> k6 | TypeScript  CI/CD Ready </em></b>
+          </td>
+        </tr>
+        <tr>
+          <th align="left">CI</th>
+          <td>
+            <a href="https://github.com/piotrapl/k6-typescript-reqres-performance-tests">
+              <img src="https://github.com/piotrapl/k6-typescript-reqres-performance-tests/actions/workflows/k6.yml/badge.svg?branch=main" alt="CI">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 ### Cross-Layer testing
 
