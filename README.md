@@ -15,7 +15,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
                 k6-typescript-reqres-performance-tests
               </a>
             </b><br>
-            <b><em> k6 | TypeScript  CI/CD Ready </em></b>
+            <b><em> k6 | TypeScript | CI/CD Ready </em></b>
           </td>
         </tr>
         <tr>
