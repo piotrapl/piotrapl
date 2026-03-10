@@ -151,8 +151,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <th align="left" width="120">Project</th>
           <td width="500">
             <b>
-              <a href="https://github.com/piotrapl/k6-typescript-reqres-performance-tests">
-                k6-typescript-reqres-performance-tests
+              <a href="https://github.com/piotrapl/k6-typescript-randomuser-performance-tests">
+                k6-typescript-randomuser-performance-tests
               </a>
             </b><br>
             <b><em> k6 | TypeScript | CI/CD Ready </em></b>
@@ -161,8 +161,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
         <tr>
           <th align="left">CI</th>
           <td>
-            <a href="https://github.com/piotrapl/k6-typescript-reqres-performance-tests">
-              <img src="https://github.com/piotrapl/k6-typescript-reqres-performance-tests/actions/workflows/k6.yml/badge.svg?branch=main" alt="CI">
+            <a href="https://github.com/piotrapl/k6-typescript-randomuser-performance-tests">
+              <img src="https://github.com/piotrapl/k6-typescript-randomuser-performance-tests/actions/workflows/k6.yml/badge.svg?branch=main" alt="CI">
             </a><a>&nbsp*</a>
           </td>
         </tr>
