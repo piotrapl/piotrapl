@@ -171,7 +171,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
   </div>
 </div>
 
-<a>*</a>* In the case of performance tests The CI badge indicates the pipeline of executed successfully
+'* In the case of performance tests The CI badge indicates the pipeline of executed successfully
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
