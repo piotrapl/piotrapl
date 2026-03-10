@@ -171,6 +171,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
   </div>
 </div>
 
+* The CI badge indicates the pipeline executed successfully
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
