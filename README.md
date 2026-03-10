@@ -140,8 +140,6 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
     </table>
   </div>
 </div>
-<!--
-**piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Performance testing
 
@@ -172,6 +170,9 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
     </table>
   </div>
 </div>
+
+<!--
+**piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
