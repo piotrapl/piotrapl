@@ -163,7 +163,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <td>
             <a href="https://github.com/piotrapl/k6-typescript-reqres-performance-tests">
               <img src="https://github.com/piotrapl/k6-typescript-reqres-performance-tests/actions/workflows/k6.yml/badge.svg?branch=main" alt="CI">
-            </a><a>..*</a>
+            </a><a>&nbsp*</a>
           </td>
         </tr>
       </tbody>
@@ -171,7 +171,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
   </div>
 </div>
 
-* The CI badge indicates the pipeline executed successfully
+* In the case of performance tests The CI badge indicates the pipeline of executed successfully
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
