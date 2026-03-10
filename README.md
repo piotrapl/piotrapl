@@ -163,7 +163,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <td>
             <a href="https://github.com/piotrapl/k6-typescript-reqres-performance-tests">
               <img src="https://github.com/piotrapl/k6-typescript-reqres-performance-tests/actions/workflows/k6.yml/badge.svg?branch=main" alt="CI">
-            </a>
+            </a><a>..*</a>
           </td>
         </tr>
       </tbody>
