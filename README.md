@@ -164,7 +164,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <td>
             <a href="https://github.com/piotrapl/k6-typescript-randomuser-performance-tests">
               <img src="https://github.com/piotrapl/k6-typescript-randomuser-performance-tests/actions/workflows/k6.yml/badge.svg?branch=main" alt="CI">
-            </a><a>&nbsp*</a>
+            </a><a>&nbsp(*)</a>
           </td>
         </tr>
       </tbody>
@@ -172,7 +172,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
   </div>
 </div>
 
-'* In case of performance testing a CI badge saying 'passing' indicates the CI pipeline (including test run) executed successfully.
+(*) In case of performance testing a CI badge saying 'passing' indicates the CI pipeline (including test run) executed successfully.
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
