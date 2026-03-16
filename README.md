@@ -16,7 +16,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
                 playwright-typescript-entities-ui-api-tests
               </a>
             </b><br>
-            <b><em>Verifying UI workflow against backend API responses: Playwright | TypeScript | Allure Reports | CI/CD Ready | Screenshots & Traces</em></b>
+            <b><em>Verifying UI workflow against backend API responses: Playwright | TypeScript | Allure Reports | Screenshots & Traces | CI/CD_Ready</em></b>
           </td>
         </tr>
         <tr>
@@ -45,7 +45,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
                 playwright-typescript-entities-ui-tests
               </a>
             </b><br>
-            <b><em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em></b>
+            <b><em>Playwright | TypeScript | HTML Reports | CI/CD_Ready</em></b>
           </td>
           <td width="40"></td>
           <td width="400">
@@ -54,7 +54,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
                 cypress-javascript-entities-ui-tests
               </a>
             </b><br>
-            <b><em>Cypress | JavaScript | GitHub Actions CI</em></b>
+            <b><em>Cypress | JavaScript | CI/CD Ready</em></b>
           </td>
         </tr>
         <tr>
@@ -86,12 +86,12 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <th align="left" width="120">Project</th>
           <td width="400">
   <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
-  <b><em>Selenium | Java | TestNG | RestAssured | HTML Reports | GitHub_Actions CI</em></b>
+  <b><em>Selenium | Java | TestNG | RestAssured | HTML Reports | CI/CD_Ready</em></b>
           </td>
           <td width="40"></td>
           <td width="400">
   <b><a href="https://github.com/piotrapl/playwright-python-cities-api-tests">playwright-python-cities-api-tests</a></b><br>
-  <b><em>Playwright | Python | Pytest | HTML Reports | GitHub_Actions CI</em></b>
+  <b><em>Playwright | Python | Pytest | HTML Reports | CI/CD_Ready</em></b>
           </td>
         </tr>
         <tr>
