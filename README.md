@@ -172,8 +172,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
   </div>
 </div>
 
-(*) In case of performance testing a CI badge shows 'failing' status, it indicates: 1. the CI pipeline did not execute successfully
-OR: 2. the test run did not meet the predefined performance criteria (thresholds)
+(*) In case of performance testing a CI badge shows 'failing' status, it indicates: 1. the test run did not meet the predefined performance criteria (thresholds) 
+OR: 2.the performance criteria was met but CI workflow failed because of technical issues (the 2nd may happen for any project with CI integration)
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
