@@ -12,7 +12,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <th align="left" width="120">Project</th>
           <td width="500">
             <b>
-              <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-api-tests">
+              <a href="https://github.com/piotrapl/playwright-typescript-b-entities-api-ui-tests">
                 playwright-typescript-entities-ui-api-tests
               </a>
             </b><br>
