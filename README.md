@@ -172,8 +172,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
   </div>
 </div>
 
-(*) In case of performance testing a CI badge saying 'passing' indicates: 1. the CI pipeline executed successfully
-and: 2. the test run met the predefined performance criteria (thresholds)
+(*) In case of performance testing a CI badge shows 'failing' status, it indicates: 1. the CI pipeline did not execute successfully
+OR: 2. the test run did not meet the predefined performance criteria (thresholds)
 <!--
 **piotrapl/piotrapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
