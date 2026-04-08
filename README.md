@@ -85,8 +85,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
         <tr>
           <th align="left" width="120">Project</th>
           <td width="400">
-  <b><a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests">selenium-java-restassured-cities-api-tests</a></b><br>
-  <b><em>Selenium | Java | TestNG | RestAssured | HTML Reports | CI/CD_Ready</em></b>
+  <b><a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">playwright-typescript-cities-api-tests</a></b><br>
+  <b><em>Playwright | TestScript | HTML Reports | CI/CD_Ready</em></b>
           </td>
           <td width="40"></td>
           <td width="400">
@@ -97,8 +97,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
         <tr>
           <th align="left">CI</th>
           <td>
-        <a href="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml">
-          <img src="https://github.com/piotrapl/selenium-java-restassured-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
+        <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/ci.yml">
+          <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
         </a>
           </td>
           <td></td>
