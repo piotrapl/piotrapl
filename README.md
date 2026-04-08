@@ -45,7 +45,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
                 playwright-typescript-entities-ui-tests
               </a>
             </b><br>
-            <b><em>Playwright | TypeScript | HTML Reports | CI/CD_Ready</em></b>
+            <b><em>Playwright | TypeScript | HTML Reports | UI_Testing | CI/CD_Ready</em></b>
           </td>
           <td width="40"></td>
           <td width="400">
@@ -86,7 +86,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <th align="left" width="120">Project</th>
           <td width="400">
   <b><a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">playwright-typescript-cities-api-tests</a></b><br>
-  <b><em>Playwright | TestScript | HTML Reports | CI/CD_Ready</em></b>
+  <b><em>Playwright | TestScript | HTML Reports | API_Testing | CI/CD_Ready</em></b>
           </td>
           <td width="40"></td>
           <td width="400">
