@@ -156,7 +156,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
                 k6-typescript-randomuser-performance-tests
               </a>
             </b><br>
-            <b><em> k6 | TypeScript | CI/CD Ready </em></b>
+            <b><em> k6 | TypeScript | CI/CD_Ready </em></b>
           </td>
         </tr>
         <tr>
