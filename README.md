@@ -12,8 +12,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <th align="left" width="120">Project</th>
           <td width="500">
             <b>
-              <a href="https://github.com/piotrapl/playwright-typescript-b-entities-api-ui-tests">
-                playwright-typescript-b-entities-api-ui-tests
+              <a href="https://github.com/piotrapl/playwright-typescript-entities-cross-layer-tests">
+                playwright-typescript-entities-cross-layer-tests
               </a>
             </b><br>
             <b><em>Verifying UI workflow against backend API responses: Playwright | TypeScript | Allure Reports | Screenshots & Traces | CI/CD_Ready</em></b>
@@ -22,8 +22,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
         <tr>
           <th align="left">CI</th>
           <td>
-            <a href="https://github.com/piotrapl/playwright-typescript-b-entities-api-ui-tests">
-              <img src="https://github.com/piotrapl/playwright-typescript-b-entities-api-ui-tests/actions/workflows/cross-layer.yml/badge.svg?branch=main" alt="CI">
+            <a href="https://github.com/piotrapl/playwright-typescript-entities-cross-layer-tests">
+              <img src="https://github.com/piotrapl/playwright-typescript-entities-cross-layer-tests/actions/workflows/cross-layer.yml/badge.svg?branch=main" alt="CI">
             </a>
           </td>
         </tr>
