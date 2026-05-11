@@ -47,33 +47,16 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
             </b><br>
             <b><em>Playwright | TypeScript | HTML Reports | UI_Testing | CI/CD_Ready</em></b>
           </td>
-          <!--
-          <td width="40"></td>
-          <td width="400">
-            <b>
-              <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests">
-                cypress-javascript-entities-ui-tests
-              </a>
-            </b><br>
-            <b><em>Cypress | JavaScript | CI/CD Ready</em></b>
-          </td>
-          -->
+          
         </tr>
         <tr>
           <th align="left">CI</th>
           <td>
-            <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml">
+            <a href="https://github.com/piotrapl/k6-typescript-randomuser-performance-tests/actions/workflows/k6.yml">
               <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
             </a>
           </td>
-          <!--
-          <td></td>
-          <td>
-            <a href="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml">
-              <img src="https://github.com/piotrapl/cypress-javascript-entities-ui-tests/actions/workflows/cypress.yml/badge.svg?branch=main" alt="CI">
-            </a>
-          </td>
-          -->
+
         </tr>
       </tbody>
     </table>
