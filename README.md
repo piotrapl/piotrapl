@@ -88,36 +88,6 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
   </div>
 </div>
 
-<!--
-<div style="overflow-x:auto;">
-  <div style="min-width:800px;">
-    <table style="width:800px; table-layout:fixed;">
-      <tbody>
-        <tr>
-          <th align="left" width="120">Project</th>
-          <td width="500">
-            <b>
-              <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">
-                playwright-typescript-cities-api-tests
-              </a>
-            </b><br>
-            <b><em>Playwright | TypeScript | HTML Reports | GitHub Actions CI</em></b>
-          </td>
-        </tr>
-        <tr>
-          <th align="left">CI</th>
-          <td>
-            <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml">
-              <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
--->
-
 ### Performance testing
 
 <div style="overflow-x:auto;">
