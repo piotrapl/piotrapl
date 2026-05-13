@@ -63,7 +63,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <th align="left" width="120">Project</th>
           <td width="400">
   <b><a href="https://github.com/piotrapl/playwright-api-minimal">playwright-api-minimal</a></b><br>
-  <b><em>Playwright | TestScript | API Testing | Generic types</em></b>
+  <b><em>Playwright | TypeScript | API_Testing | Generic types</em></b>
           </td>
         </tr>
         <tr>
