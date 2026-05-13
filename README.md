@@ -62,7 +62,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
     </table>
   </div>
 </div>
-<!--
+
 ### API testing
 
 <div style="overflow-x:auto;">
@@ -72,34 +72,22 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
         <tr>
           <th align="left" width="120">Project</th>
           <td width="400">
-  <b><a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests">playwright-typescript-cities-api-tests</a></b><br>
-  <b><em>Playwright | TestScript | HTML Reports | API_Testing | CI/CD_Ready</em></b>
-          </td>
-          <td width="40"></td>
-          <td width="400">
-  <b><a href="https://github.com/piotrapl/playwright-python-cities-api-tests">playwright-python-cities-api-tests</a></b><br>
-  <b><em>Playwright | Python | Pytest | HTML Reports | CI/CD_Ready</em></b>
+  <b><a href="https://github.com/piotrapl/playwright-api-minimal">playwright-api-minimal</a></b><br>
+  <b><em>Playwright | TestScript | API Testing | Generic types</em></b>
           </td>
         </tr>
         <tr>
           <th align="left">CI</th>
           <td>
-        <a href="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/ci.yml">
-          <img src="https://github.com/piotrapl/playwright-typescript-cities-api-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
+        <a "      ">
         </a>
           </td>
-          <td></td>
-          <td>
-        <a href="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml">
-          <img src="https://github.com/piotrapl/playwright-python-cities-api-tests/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI">
-        </a>
-          </td>
-        </tr>
+       </tr>
       </tbody>
     </table>
   </div>
 </div>
--->
+
 <!--
 <div style="overflow-x:auto;">
   <div style="min-width:800px;">
