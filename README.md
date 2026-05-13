@@ -47,7 +47,6 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
             </b><br>
             <b><em>Playwright | TypeScript | HTML Reports | UI_Testing | CI/CD_Ready</em></b>
           </td>
-
         </tr>
       </tbody>
     </table>
@@ -70,8 +69,6 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
         <tr>
           <th align="left">CI</th>
           <td>
-        <a "      ">
-        </a>
           </td>
        </tr>
       </tbody>
