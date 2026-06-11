@@ -77,6 +77,9 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
         <tr>
           <th align="left">CI</th>
           <td>
+              <a href="https://github.com/piotrapl/playwright-api-minimal">
+              <img src="https://github.com/piotrapl/playwright-api-minimal/actions/workflows/playwright-api-tests.yaml/badge.svg?branch=main" alt="CI">
+            </a>
           </td>
        </tr>
       </tbody>
