@@ -70,15 +70,15 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
         <tr>
           <th align="left" width="120">Project</th>
           <td width="400">
-  <b><a href="https://github.com/piotrapl/playwright-api-minimal">playwright-api-minimal</a></b><br>
+  <b><a href="https://github.com/piotrapl/playwright-typescript-api-tests">playwright-typescript-api-tests</a></b><br>
   <b><em>Playwright | TypeScript | API_Testing | Generic types</em></b>
           </td>
         </tr>
         <tr>
           <th align="left">CI</th>
           <td>
-              <a href="https://github.com/piotrapl/playwright-api-minimal">
-              <img src="https://github.com/piotrapl/playwright-api-minimal/actions/workflows/playwright-api-tests.yaml/badge.svg?branch=main" alt="CI">
+              <a href="https://github.com/piotrapl/playwright-typescript-api-tests">
+              <img src="https://github.com/piotrapl/playwright-typescript-api-tests/actions/workflows/playwright-api-tests.yaml/badge.svg?branch=main" alt="CI">
             </a>
           </td>
        </tr>
