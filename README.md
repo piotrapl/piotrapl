@@ -32,6 +32,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
   </div>
 </div>
 
+<!--
 ### UI testing
 <div style="overflow-x:auto;">
   <div style="min-width:1200px;">
@@ -60,6 +61,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
     </table>
   </div>
 </div>
+-->
 
 ### API testing
 
