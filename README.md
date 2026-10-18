@@ -2,7 +2,7 @@
 Clicking a CI badge in one of 'CI' rows will take you to the project’s 'Actions' tab. <br>
 Check out my other QA automation projects in the **'Pinned' section** below the dashboard.
 
-### Cross-Layer testing
+### UI and Cross-Layer testing
 
 <div style="overflow-x:auto;">
   <div style="min-width:800px;">
@@ -12,8 +12,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <th align="left" width="120">Project</th>
           <td width="500">
             <b>
-              <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-cross-layer-tests">
-                playwright-typescript-entities-ui-cross-layer-tests
+              <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-crosslayer-tests">
+                playwright-typescript-entities-ui-crosslayer-tests
               </a>
             </b><br>
             <b><em>Verifying UI workflow against backend API responses: Playwright | TypeScript | Allure Reports | Screenshots & Traces | CI/CD_Ready</em></b>
@@ -22,8 +22,8 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
         <tr>
           <th align="left">CI</th>
           <td>
-            <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-cross-layer-tests">
-              <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-cross-layer-tests/actions/workflows/cross-layer.yml/badge.svg?branch=main" alt="CI">
+            <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-crosslayer-tests">
+              <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-crosslayer-tests/actions/workflows/cross-layer.yml/badge.svg?branch=main" alt="CI">
             </a>
           </td>
         </tr>
@@ -31,37 +31,6 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
     </table>
   </div>
 </div>
-
-<!--
-### UI testing
-<div style="overflow-x:auto;">
-  <div style="min-width:1200px;">
-    <table style="width:1200px; table-layout:fixed;">
-      <tbody>
-        <tr>
-          <th align="left" width="120">Project</th>
-          <td width="400">
-            <b>
-              <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">
-                playwright-typescript-entities-ui-tests  
-              </a>
-            </b><br>
-            <b><em>Playwright | TypeScript | HTML Reports | UI_Testing | CI/CD_Ready</em></b>
-          </td>
-        </tr>
-        <tr>
-          <th align="left">CI</th>
-          <td>
-            <a href="https://github.com/piotrapl/playwright-typescript-entities-ui-tests">
-              <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-tests/actions/workflows/playwright.yml/badge.svg?branch=main" alt="CI">
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
--->
 
 ### API testing
 
