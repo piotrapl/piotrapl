@@ -23,7 +23,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <th align="left">CI</th>
           <td>
               <a href="https://github.com/piotrapl/playwright-typescript-ui-crosslayer-tests">
-              <img src="https://github.com/piotrapl/playwright-typescript-ui-crosslayer-tests/actions/workflows/cross-layer.yml/badge.svg?branch=main" alt="CI">
+              <img src="https://github.com/piotrapl/playwright-typescript-entities-ui-crosslayer-tests/actions/workflows/cross-layer.yml/badge.svg?branch=main" alt="CI">
             </a>
           </td>
         </tr>
