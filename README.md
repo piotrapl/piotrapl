@@ -49,7 +49,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
           <th align="left">CI</th>
           <td>
               <a href="https://github.com/piotrapl/playwright-typescript-api-tests">
-              <img src="https://github.com/piotrapl/playwright-typescript-api-tests/actions/workflows/playwright-api-tests.yaml/badge.svg?branch=main" alt="CI">
+              <img src="https://github.com/piotrapl/playwright-typescript-api-tests/actions/workflows/playwright-typescript-api-tests.yaml/badge.svg?branch=main" alt="CI">
             </a>
           </td>
        </tr>
