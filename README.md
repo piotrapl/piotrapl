@@ -31,7 +31,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
     </table>
   </div>
 </div>
-
+<!--
 ### API testing
 
 <div style="overflow-x:auto;">
@@ -57,7 +57,7 @@ Check out my other QA automation projects in the **'Pinned' section** below the 
     </table>
   </div>
 </div>
-
+-->
 ### Performance testing
 
 <div style="overflow-x:auto;">
